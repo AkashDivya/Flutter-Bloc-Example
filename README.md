@@ -30,19 +30,12 @@ I kept the code as original as possible with prober Commented Guides for anyone 
   
 # Download the APK
 
-Check the apk files included in this Repo. Install them on your device to test it.
-
-  [Download arm64 APK](https://raw.githubusercontent.com/AkashDivya/Explore-Flutter-FireStore/master/release%20builds/app-arm64-v8a-release.apk)
-  
-  [Download armeabi APK](https://raw.githubusercontent.com/AkashDivya/Explore-Flutter-FireStore/master/release%20builds/app-armeabi-v7a-release.apk)
-
+Updating soon...
 
 # App Demonstration Video
 
-  [![Explore - Flutter App Showcase](https://img.youtube.com/vi/Mb-b4zVODmk/0.jpg)](https://www.youtube.com/watch?v=Mb-b4zVODmk)
+  Updating soon...
   
-  [Watch Video on Youtube](https://www.youtube.com/watch?v=Mb-b4zVODmk)
-
 # Other Useful Flutter Repos
   - **Explore - Flutter/FireStore/Google-Map**
 
