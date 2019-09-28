@@ -57,10 +57,10 @@ class _HomePageState extends State<HomePage> {
               ),
             ],
             indicatorColor: Colors.transparent,
-            labelPadding: EdgeInsets.symmetric(vertical: 40),
             unselectedLabelColor: Theme.of(context).accentColor,
           ),
-          height: 120,
+          alignment: Alignment.center,
+          height: 100,
           decoration: BoxDecoration(
             color: Theme.of(context).primaryColor,
             borderRadius: BorderRadius.only(
