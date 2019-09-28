@@ -44,15 +44,15 @@ Check the apk files included in this Repo. Install them on your device to test i
   [Watch Video on Youtube](https://www.youtube.com/watch?v=Mb-b4zVODmk)
 
 # Other Useful Flutter Repos
-  - # Explore - Flutter/FireStore/Google-Map
+  - **Explore - Flutter/FireStore/Google-Map**
 
     If you wanna learn how to implement Firebase's Firestore and Google Map with Flutter, visit this [Repo](https://github.com/AkashDivya/Explore-Flutter-FireStore)
 
-  - # Custom Modal Bottom Sheet - Flutter
+  - **Custom Modal Bottom Sheet - Flutter**
 
     If you wanna learn how to create custom Modal Bottom Sheet in Flutter with Rounded Corners and Transparent Background, visit this [Repo](https://github.com/AkashDivya/Modal-Bottom-Sheet-Flutter)
 
-  - # BadassIcons - Flutter/Custom-Font-Icons
+  - **BadassIcons - Flutter/Custom-Font-Icons**
 
     If you wanna learn how to use Custom Font Icons as an alternative to SVG in Flutter(as they are not officially supported Yet!), visit this [Repo](https://github.com/AkashDivya/BadassIcons-Flutter-Custom-Font-Icons)
 
