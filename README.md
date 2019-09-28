@@ -32,7 +32,7 @@ I kept the code as original as possible with prober Commented Guides for anyone 
 
 Updating soon...
 
-# App Demonstration Video
+# Tutorial Video
 
   Updating soon...
   
